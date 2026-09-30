@@ -1,0 +1,6 @@
+{
+  "name": "AutoMiniaturas VIP - Agendamento & Loja",
+  "description": "Sistema de agendamento, reserva e compra de miniaturas de carros colecionáveis com integração Supabase e WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
